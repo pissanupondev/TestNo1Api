@@ -1,0 +1,6 @@
+@TBApi_HostAddress = http://localhost:5108
+
+GET {{TBApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

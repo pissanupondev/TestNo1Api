@@ -1,0 +1,34 @@
+
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# IDE
+.idea/
+.vscode/
+
+# Local configuration and secrets
+appsettings.Development.json
+appsettings.Production.json
+secrets.json
+
+# Environment files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Database files and backups
+*.mdf
+*.ldf
+*.bak
+
+# Test results
+TestResults/
